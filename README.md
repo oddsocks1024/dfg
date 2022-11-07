@@ -1,2 +1,5 @@
 # dfg
-Displays disk usage in the form of a coloured graph
+Simple perl script that displays disk usage in the form of a coloured graph
+
+## Usage
+./dfg.pl -docs
